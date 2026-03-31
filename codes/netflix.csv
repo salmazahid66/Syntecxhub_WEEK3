@@ -1,0 +1,29 @@
+type,title,release_year,listed_in,country
+Movie,M1,2018,Drama,USA
+TV Show,S1,2020,Comedy,UK
+Movie,M2,2019,Action,USA
+Movie,M3,2021,Drama,India
+TV Show,S2,2017,Thriller,Canada
+Movie,M4,2022,Comedy,USA
+TV Show,S3,2016,Drama,India
+Movie,M5,2015,Action,USA
+Movie,M6,2023,Drama,USA
+TV Show,S4,2018,Comedy,UK
+Movie,M7,2014,Horror,USA
+Movie,M8,2013,Drama,India
+TV Show,S5,2021,Action,USA
+Movie,M9,2020,Comedy,Canada
+Movie,M10,2019,Drama,USA
+TV Show,S6,2018,Thriller,India
+Movie,M11,2017,Action,USA
+Movie,M12,2022,Drama,UK
+TV Show,S7,2023,Comedy,USA
+Movie,M13,2016,Horror,India
+Movie,M14,2021,Drama,USA
+TV Show,S8,2019,Comedy,UK
+Movie,M15,2020,Action,USA
+Movie,M16,2018,Drama,Canada
+TV Show,S9,2017,Thriller,USA
+Movie,M17,2022,Comedy,USA
+Movie,M18,2023,Drama,India
+TV Show,S10,2021,Action,UK
